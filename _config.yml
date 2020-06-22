@@ -19,19 +19,48 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jorick van der Hoeven
+name: "Jorick van der Hoeven"
 email: jo.rick@vanderhoeven.ch
 description: >- # this means to ignore newlines until "baseurl:"
   A small space to host some thoughts about interesting technology and
   the world in general.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jorickvdhoeven.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jorickvdhoeven
+repository: "jorickvdhoeven/jorickvdhoeven.github.io"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+site.locale: "en-GB"
+
+masthead_title: "Jorick van der Hoeven"
+
+search: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      related: true
+
+author:
+  name     : "Jorick van der Hoeven"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Lorem ipsum dolor sit amet."
+  location : "New York, USA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jorickvdhoeven"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
