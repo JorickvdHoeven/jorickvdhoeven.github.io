@@ -1,5 +1,5 @@
 main:
   - title: "About"
-    url: /about.markdown
-  - title: "Posts"
-    url: /_posts/
+    url: /about/
+  - title: "Projects"
+    url: /portfolio/
