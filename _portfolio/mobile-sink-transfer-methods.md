@@ -1,16 +1,18 @@
 ---
 title: "Sensor Network Transfer Methods"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Researching how to most efficiently pull information from a distributed sensor network onto a high-powered mobile sink to allow reserachers to collect data without needing collect sensors or visit each sensor."
+header:
+  teaser: "assets/images/oxford.png"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    image: "assets/images/oxford.png"
+    image_alt: "oxford logo"
+    text: "Masters student, Research"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Examining the effects of movement on data collection protocols in a sensor network and building the fastest possible transfer protocol to pull data from the network into the sink."
 ---
 
-In the final year of my studies at the University of Oxford I joined a research group which was working on a sensor network. My work consisted in investigating reliable transfer methods between the nodes of the sensor network and a mobile sink which would travel through the network and gather all of the data in the network wirelessly. If you are interested in my research I have posted my thesis below.
+In the final year of my studies at the University of Oxford I joined a research group working on a sensor network. My work consisted in investigating reliable transfer methods between the nodes of the sensor network and a mobile sink which would travel through the network and gather all of the data in the network wirelessly. If you are interested in my research I have posted my thesis below.
 
 **Abstract**
 

@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/portfolio/client-risk-factor-identification/</loc>
+<lastmod>2020-06-24T11:30:22-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/portfolio/mobile-sink-transfer-methods/</loc>
-<lastmod>2020-06-23T01:34:02-04:00</lastmod>
+<lastmod>2020-06-24T11:30:22-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/sketch-shading/</loc>
-<lastmod>2020-06-23T01:34:02-04:00</lastmod>
+<lastmod>2020-06-24T11:30:22-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/finding-hidden-characters-in-excel/</loc>
@@ -31,6 +35,10 @@
 <url>
 <loc>http://localhost:4000/pseudo-random-ids-in-sql/</loc>
 <lastmod>2017-01-31T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/mapping-data-with-plotly/</loc>
+<lastmod>2020-04-10T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

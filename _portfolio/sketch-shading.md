@@ -1,13 +1,15 @@
 ---
 title: "Sketch Shading"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "How to render 3-dimensional objects in real-time so that the objects appear sketched rather than photorealistically rendered using textures rather than shaders."
+header:
+  teaser: "assets/images/oxford.png"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    image: "assets/images/oxford.png"
+    image_alt: "oxford logo"
+    text: "Bachelors student, Research"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Learning about rendering pipelines and 3-dimensional object representations."
 ---
 
 For my Bachelors thesis (2008) I designed a method for rendering 3D models in a non-photorealistic way allowing the models to appear sketched. While the material I present in my thesis is not very complex, I present a completely novel approach to rendering models so that they appear sketched in real time.
