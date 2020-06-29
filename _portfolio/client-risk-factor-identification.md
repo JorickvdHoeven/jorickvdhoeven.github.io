@@ -1,13 +1,17 @@
 ---
-title: "Identifying at-risk customers in a litigation."
-excerpt: "Researching how to most efficiently pull information from a distributed sensor network onto a high-powered mobile sink to allow reserachers to collect data without needing collect sensors or visit each sensor."
+title: "Identifying at-risk customers using KYC data"
+excerpt: "In 2013 the Swiss FINMA and the US Department of Justice announced the US Program asking Swiss banks and insurance companies to self-declare whether they held accounts for US citizens which were not declared to the IRS. This declaration set off a race to identify potential US accounts in banking institutions across Swizterland..."
 header:
-  teaser: "assets/images/output_61_1.png"
+  teaser: "assets/images/us-program.png"
 sidebar:
   - title: "Role"
-    image: "assets/images/output_61_1.png"
-    image_alt: "deloitte logo"
-    text: "Analyst"
+    image: "assets/images/us-program.png"
+    image_alt: "us flag on matterhorn"
+    text: "Consultant"
   - title: "Responsibilities"
-    text: "Examining the effects of movement on data collection protocols in a sensor network and building the fastest possible transfer protocol to pull data from the network into the sink."
+    text: "Building an SQL pipeline to parse customer KYC information to identify potential US citizens in data."
 ---
+
+In 2013 the Swiss FINMA and the US Department of Justice announced the US Program asking Swiss banks and insurance companies to self-declare whether they held accounts for US citizens which were not declared to the IRS. This declaration set off a race to identify potential US accounts in banking institutions across Swizterland.
+
+[[ DETAILS TO FOLLOW]]
