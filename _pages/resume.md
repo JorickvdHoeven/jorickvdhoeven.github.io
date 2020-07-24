@@ -13,8 +13,11 @@ sidebar:
 
 
 ## CAREER
+
+### Director People Analytics (Data Science), Gartner
+Stamford, CT July 2020 – Present
 ### Manager Analytic and Forensic Technology, Deloitte
-New York, NY June 2017 – Present
+New York, NY June 2017 – July 2020
 ### Assistant Manager, Deloitte
 Geneva, Switzerland September 2014 – May 2017 (Seconded USA 2015-2017)
 ### Senior Consultant, Deloitte
