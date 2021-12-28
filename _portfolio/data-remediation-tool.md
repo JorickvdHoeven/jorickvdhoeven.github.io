@@ -9,5 +9,5 @@ sidebar:
     image_alt: "deloitte logo"
     text: "Product Designer/Manager"
   - title: "Responsibilities"
-    text: "Examining the effects of movement on data collection protocols in a sensor network and building the fastest possible transfer protocol to pull data from the network into the sink."
+    text: "Desiging the system and leading three development teams to build the system for our client. Under my guidance one team built a user interface, one team built a data ingestion pipeline, and one team created a client POC along with classification models to identify the archiving type of documents."
 ---

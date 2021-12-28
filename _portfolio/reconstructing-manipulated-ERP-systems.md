@@ -9,5 +9,5 @@ sidebar:
     image_alt: "deloitte logo"
     text: "Team Lead"
   - title: "Responsibilities"
-    text: "Examining the effects of movement on data collection protocols in a sensor network and building the fastest possible transfer protocol to pull data from the network into the sink."
+    text: "Technical lead in the investigation responsible for designing the reconstruction efforts and managing the teams tasks in order to meet client deadlines. Key point of contact for technical questions in arbitration proceedings."
 ---

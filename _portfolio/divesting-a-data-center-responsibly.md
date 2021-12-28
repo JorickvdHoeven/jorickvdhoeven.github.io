@@ -9,5 +9,5 @@ sidebar:
     image_alt: "a corridor in a data center"
     text: "Product Designer/Manager"
   - title: "Responsibilities"
-    text: "Examining the effects of movement on data collection protocols in a sensor network and building the fastest possible transfer protocol to pull data from the network into the sink."
+    text: "Directing a team of highly skilled analysts in building a system which can quickly scan a data center for sensitive keywords and quarantines potentially sensitive files before delivering them to the buyer."
 ---
