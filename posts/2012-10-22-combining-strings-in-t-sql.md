@@ -2,7 +2,7 @@
 title: Combining strings in T-SQL
 author: Jorick van der Hoeven
 date: '2012-10-22'
-category: ['snippet', 'T-SQL']
+categories: [snippet, T-SQL]
 ---
 
 I found out the other day how to solve a problem that had been causing me issues when presenting data. I often got requests to resent data in such a way that we display information from a table in a grouped form while still allowing someone to consult all of the values relating to this grouping.

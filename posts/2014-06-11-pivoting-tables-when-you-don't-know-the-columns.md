@@ -2,7 +2,7 @@
 title: Pivoting tables when you don't know the columns in T-SQL
 author: Jorick van der Hoeven
 date: '2014-06-11'
-category: ['snippet', 'T-SQL']
+categories: [snippet, T-SQL]
 ---
 
 Here's the situation, you've got a column in a table which you want to pivot on but you don't have any control over the distinct number of values that can be in that column. It could be 3 or it could be 20. However, you still need to be able to pivot the whole table to display the information to the user. How do you do this?

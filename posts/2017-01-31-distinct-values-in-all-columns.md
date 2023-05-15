@@ -2,7 +2,7 @@
 title: Distinct values in all columns in T-SQL
 author: Jorick van der Hoeven
 date: '2017-01-31'
-category: ['snippet', 'T-SQL']
+categories: [snippet, T-SQL]
 ---
 
 # A nifty little tool to find all the distinct values in all columns

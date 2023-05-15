@@ -2,7 +2,7 @@
 title: Searching for hidden characters in Excel
 author: Jorick van der Hoeven
 date: '2012-10-10'
-category: ['snippet']
+categories: [snippet]
 ---
 
 Did you know that you could search for hidden characters and replace with hidden characters in excel?

@@ -2,7 +2,7 @@
 title: Creating anonymized pseudo-random IDs in T-SQL
 author: Jorick van der Hoeven
 date: '2017-01-31'
-category: ['snippet','T-SQL']
+categories: [snippet, T-SQL]
 ---
 
 ## Creating anonymized pseudo-random IDs

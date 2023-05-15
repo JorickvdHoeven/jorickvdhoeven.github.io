@@ -2,7 +2,7 @@
 title: First or last in T-SQL
 author: Jorick van der Hoeven
 date: '2012-12-10'
-category: ['snippet', 'T-SQL']
+categories: [snippet, T-SQL]
 ---
 
 I've been looking for a while now to find a way to return just one row when the fields I am using split up my table return several rows per unique field combination. I found this little gem today:
