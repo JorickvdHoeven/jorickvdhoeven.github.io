@@ -114,7 +114,7 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "Listing Example",
+    "title": "Portfolio",
     "section": "",
     "text": "Divesting data in datacenters\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinding redundant, obsolete, or trivial data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdentifying at-risk customers using KYC data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReconstructing manipulated ERP systems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSensor network transfer methods\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSketch Shading\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
@@ -207,6 +207,6 @@
     "href": "blog.html",
     "title": "blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 12, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nCreating anonymized pseudo-random IDs in T-SQL\n\n\n\n\n\n\n\n\n\n\n\n\nJan 31, 2017\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nDistinct values in all columns in T-SQL\n\n\n\n\n\n\n\n\n\n\n\n\nJan 31, 2017\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nPivoting tables when you don’t know the columns in T-SQL\n\n\n\n\n\n\n\n\n\n\n\n\n\nJun 11, 2014\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nFirst or last in T-SQL\n\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2012\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nCombining strings in T-SQL\n\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2012\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nSearching for hidden characters in Excel\n\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2012\n\n\nJorick van der Hoeven\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 12, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nCreating anonymized pseudo-random IDs in T-SQL\n\n\n\n\n\n\n\nsnippet\n\n\nT-SQL\n\n\n\n\n\n\n\n\n\n\n\nJan 31, 2017\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nDistinct values in all columns in T-SQL\n\n\n\n\n\n\n\nsnippet\n\n\nT-SQL\n\n\n\n\n\n\n\n\n\n\n\nJan 31, 2017\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nPivoting tables when you don’t know the columns in T-SQL\n\n\n\n\n\n\n\nsnippet\n\n\nT-SQL\n\n\n\n\n\n\n\n\n\n\n\n\nJun 11, 2014\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nFirst or last in T-SQL\n\n\n\n\n\n\n\nsnippet\n\n\nT-SQL\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2012\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nCombining strings in T-SQL\n\n\n\n\n\n\n\nsnippet\n\n\nT-SQL\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2012\n\n\nJorick van der Hoeven\n\n\n\n\n\n\n  \n\n\n\n\nSearching for hidden characters in Excel\n\n\n\n\n\n\n\nsnippet\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2012\n\n\nJorick van der Hoeven\n\n\n\n\n\n\nNo matching items"
   }
 ]
