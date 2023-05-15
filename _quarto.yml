@@ -3,10 +3,16 @@ project:
 
 website:
   title: "Jorick van der Hoeven"
+  open-graph: true
   navbar:
-    right:
+    left:
+      - text: Portfolio
+        file: portfolio.qmd
       - text: Blog
         file: blog.qmd
+      - text: Code Explorations
+        file: notebooks.qmd
+    right:
       - about.qmd
       - icon: github
         href: https://github.com/
@@ -14,7 +20,9 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: darkly
+      light: flatly
     css: styles.css
 
 execute:

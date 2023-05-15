@@ -1,8 +1,7 @@
 ---
 title: "Sensor network transfer methods"
 excerpt: "Researching how to most efficiently pull information from a distributed sensor network onto a high-powered mobile sink to allow reserachers to collect data without needing collect sensors or visit each sensor."
-# header:
-#   teaser: "oxford-sensenet.png"
+imgae: "oxford-sensenet.png"
 # sidebar:
 #   - title: "Role"
 #     image: "oxford-banner.png"

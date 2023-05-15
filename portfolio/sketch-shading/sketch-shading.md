@@ -1,8 +1,7 @@
 ---
 title: "Sketch Shading"
 excerpt: "How to render 3-dimensional objects in real-time so that the objects appear sketched rather than photorealistically rendered using textures rather than shaders."
-# header:
-#   teaser: "oxford_sketch.png"
+image: "oxford_sketch.png"
 # sidebar:
 #   - title: "Role"
 #     image: "oxford-banner.png"

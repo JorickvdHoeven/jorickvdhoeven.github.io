@@ -1,8 +1,7 @@
 ---
 title: "Divesting data in datacenters"
 excerpt: "Rooting through the data in a data center to separate data to be sold from company secrets to be safeguarded."
-# header:
-#   teaser: "data-center-split.jpg"
+image: "data-center-split.jpg"
 # sidebar:
 #   - title: "Role"
 #     image: "data-center-split.jpg"

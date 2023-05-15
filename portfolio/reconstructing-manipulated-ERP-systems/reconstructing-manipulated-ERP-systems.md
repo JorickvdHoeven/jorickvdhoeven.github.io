@@ -1,8 +1,7 @@
 ---
 title: "Reconstructing manipulated ERP systems"
 excerpt: "Using multiple database backups to identify the changes caused by fraudulent activity in an ERP system."
-# header:
-#   teaser: "database-forensics.jpg"
+image: "database-forensics.jpg"
 # sidebar:
 #   - title: "Role"
 #     image: "database-forensics.jpg"

@@ -1,3 +1,9 @@
+---
+title: Pivoting tables when you don't know the columns in T-SQL
+author: Jorick van der Hoeven
+date: '2014-06-11'
+---
+
 Here's the situation, you've got a column in a table which you want to pivot on but you don't have any control over the distinct number of values that can be in that column. It could be 3 or it could be 20. However, you still need to be able to pivot the whole table to display the information to the user. How do you do this?
 
 The answer here lies in the way you can use string variables as code in dynamic SQL, and there are two parts of the pivot code which have become variables in the situation outlined above:
@@ -19,11 +25,11 @@ PIVOT
 (
 SUM(ColToAggregate)
 
-FOR PivotSource 
-IN ( 
+FOR PivotSource
+IN (
    --Variable Block #2
    [PivotVal1], ... , [PivotValX]
-   --End: VB #2 
+   --End: VB #2
    )
 
 ) pvt
@@ -65,19 +71,19 @@ DECLARE @SQLPivot VARCHAR(MAX)
 SET @SQLPivot = '
   SELECT
       UnPivotedColumn1,
-      ' + @VB1 + ' 
+      ' + @VB1 + '
   FROM (
       SELECT UnPivotedColumn1
                   ,PivotSource --Contains values PivotVal1 - X
                   ,ColToAggregate
       FROM TableYouWantToPivot
   ) tbl
-  PIVOT 
+  PIVOT
   (
   SUM(ColToAggregate)
 
-  FOR PivotSource 
-  IN ( 
+  FOR PivotSource
+  IN (
      ' + @VB2 + '
      )
 

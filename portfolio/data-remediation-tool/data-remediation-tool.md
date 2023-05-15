@@ -1,8 +1,7 @@
 ---
 title: "Finding redundant, obsolete, or trivial data"
 excerpt: "A python-based framework to scan datacenter storage devices and cataloging the information in a simple and clear way to identify areas which low access or containing trival information."
-# header:
-#   teaser: "obsolete.png"
+image: "obsolete.png"
 # sidebar:
 #   - title: "Role"
 #     image: "obsolete.png"
