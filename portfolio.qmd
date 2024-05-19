@@ -1,0 +1,7 @@
+---
+title: "Portfolio"
+listing:
+  contents: portfolio
+  type: grid
+  categories: true
+---

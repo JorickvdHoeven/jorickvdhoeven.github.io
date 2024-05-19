@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Jorick van der Hoeven"
+  open-graph: true
+  navbar:
+    left:
+      - text: Portfolio
+        file: portfolio.qmd
+      - text: Blog
+        file: blog.qmd
+      - text: Code Explorations
+        file: notebooks.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    css: styles.css
+
+execute:
+  freeze: auto
+
+
