@@ -1,0 +1,29 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2017-01-31-pseudo-random-ids-in-sql.html",
+      "/posts/2017-01-31-distinct-values-in-all-columns.html",
+      "/posts/2014-06-11-pivoting-tables-when-you-don't-know-the-columns.html",
+      "/posts/2012-12-10-first-or-last-in-tsql.html",
+      "/posts/2012-10-22-combining-strings-in-t-sql.html",
+      "/posts/2012-10-10-finding-hidden-characters-in-excel.html"
+    ]
+  },
+  {
+    "listing": "/notebooks.html",
+    "items": [
+      "/notebooks/coffee course/mapping-data-with-plotly/mapping-data-with-plotly.html",
+      "/notebooks/coffee course/introduction-to-SIR-models-2/introduction-to-SIR-models-2.html",
+      "/notebooks/coffee course/introduction-to-SIR-models-3/introduction-to-SIR-models-3.html",
+      "/notebooks/coffee course/introduction-to-SIR-models-1/introduction-to-SIR-models-1.html"
+    ]
+  },
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/portfolio/mobile-sink-transfer-methods/mobile-sink-transfer-methods.html",
+      "/portfolio/sketch-shading/sketch-shading.html"
+    ]
+  }
+]
