@@ -1,5 +1,0 @@
----
-title: "Code explorations"
-listing:
-  contents: notebooks
----
