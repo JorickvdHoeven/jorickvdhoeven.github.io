@@ -8,19 +8,14 @@ website:
     left:
       - text: Portfolio
         file: portfolio.qmd
-      - text: Blog
-        file: blog.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/JorickvdHoeven
 format:
   html:
     theme:
-      dark: darkly
-      light: flatly
+      dark: cyborg
+      light: cyborg
     css: styles.css
 
 execute:
