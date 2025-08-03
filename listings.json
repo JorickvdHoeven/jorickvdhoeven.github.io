@@ -11,15 +11,6 @@
     ]
   },
   {
-    "listing": "/notebooks.html",
-    "items": [
-      "/notebooks/coffee course/mapping-data-with-plotly/mapping-data-with-plotly.html",
-      "/notebooks/coffee course/introduction-to-SIR-models-2/introduction-to-SIR-models-2.html",
-      "/notebooks/coffee course/introduction-to-SIR-models-3/introduction-to-SIR-models-3.html",
-      "/notebooks/coffee course/introduction-to-SIR-models-1/introduction-to-SIR-models-1.html"
-    ]
-  },
-  {
     "listing": "/portfolio.html",
     "items": [
       "/portfolio/mobile-sink-transfer-methods/mobile-sink-transfer-methods.html",
