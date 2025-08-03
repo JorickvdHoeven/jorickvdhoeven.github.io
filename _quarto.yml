@@ -10,8 +10,6 @@ website:
         file: portfolio.qmd
       - text: Blog
         file: blog.qmd
-      - text: Code Explorations
-        file: notebooks.qmd
     right:
       - about.qmd
       - icon: github
