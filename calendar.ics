@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OtterBot//Assistant calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Assistant
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:azor-ordered@jorick.vanderhoeven.ch
+DTSTAMP:20261001T170102Z
+DTSTART;VALUE=DATE:20261001
+SUMMARY:Azor e-bike ordered
+DESCRIPTION:Order placed with Amsterdam Bicycle Company (Steven Verschuijl)\; payment received. Kruisframe Dames 67\, matte black\, Shimano Steps mid-motor\, €3\,254.48. Production time ~6 weeks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:azor-ships@jorick.vanderhoeven.ch
+DTSTAMP:20261001T170102Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Azor e-bike: production complete\, ships soon (expected)
+DESCRIPTION:~6 weeks production ends around today (expected date). Dealer requests shipping and sends the tracking code. Shipping then takes 6-10 days. Dealer: Steven Verschuijl\, steven@amsterdam-bicycle.com\, +31 6 2040 2682.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:azor-delivery-window@jorick.vanderhoeven.ch
+DTSTAMP:20261001T170102Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261123
+SUMMARY:Azor e-bike: delivery window (expected)
+DESCRIPTION:Expected delivery window Wed Nov 18 - Sun Nov 22 (6-10 days shipping after Nov 12). Bike arrives partly disassembled\; final assembly by Jorick. Dealer: Steven Verschuijl\, steven@amsterdam-bicycle.com\, +31 6 2040 2682.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
